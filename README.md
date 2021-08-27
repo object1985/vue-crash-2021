@@ -22,3 +22,13 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+## created by YouTube
+https://www.youtube.com/watch?v=qZXt1Aom3Cs&t=1452s
+
+## Vue.js Study List
+
+- component
+- v-bind
+- for
+- emit
