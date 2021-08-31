@@ -36,3 +36,4 @@ https://www.youtube.com/watch?v=qZXt1Aom3Cs&t=1452s
 - fontawesome
 - json-server
  - like a db by json
+- vue-router
