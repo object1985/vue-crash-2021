@@ -32,3 +32,7 @@ https://www.youtube.com/watch?v=qZXt1Aom3Cs&t=1452s
 - v-bind
 - for
 - emit
+- async-await
+- fontawesome
+- json-server
+ - like a db by json
